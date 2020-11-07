@@ -13,8 +13,6 @@ Software: SQL, Postgres, pgAdmin
   * In the second deliverable, I wrote a query to create a table showing the employees that are eligible to participate in a mentorship program. After applying the constraints of being a current employee and born in 1965, I found 1,549 employees eligible for the program.
   * Most of the employees eligible for the mentorship program are Engineers (with 748).
 
-</br>
-
 ## Summary
 Pewlett-Hackard will need to fill close to 90,398 roles as the “silver tsunami” begins. This will ensure that someone is able to take over each role from all retiring employees. There are about 1,549 employees eligible in the mentorship program that will be able to mentor the incoming employees at the company. This may not be enough as the number of employees retiring is far greater than the employees that are eligible to mentor. We used a larger range (3 years) to identify potential retirees but only 1 year to identify eligible mentors, so this may be a reason why there are far less employees.
 
