@@ -5,7 +5,7 @@ The purpose of this analysis was to find the employees within Pewlett-Hackard th
 
 ## Resources
 Data Source: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv
-Software: SQL, Postgres, pgAdmin
+Software: PostgreSQL, pgAdmin
 
 ## Results
   * In the first deliverable, we identified the individuals nearing retirement age by joining the Employees and Titles tables and then filtering by birthdates between 1952 and 1955. After applying the DISTINCT function to remove duplicates, I identified 90,398 employees that were nearing retirement age.
